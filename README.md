@@ -26,7 +26,6 @@ Prototyping Skills
 
 Collaboration
  - Document and share project information to support reproducible research
- - Provide peer feedback to fellow students on project work
  - Present design decisions and prototypes to receive critical feedback
 
 
@@ -34,18 +33,10 @@ Collaboration
 
 There is a course reading list under the ReadingLists@UCL facilty which can be accessed here: (https://ucl.rl.talis.com/modules/casa0018.html)
 
-The core text for the module is [TinyML](https://tinymlbook.com/) by Pete Warden and Daniel Situnayake  
-
-We also reference
-- [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron
-
 
 ## Assessment
 
-(2500 word equiv)
-- project build (30%),
-- github page - code / docs / photos / video (30%),
-- crit (40%)
+- Project report and associated GitHub (70% comprising project build 30% and project documentation 40%)
+- Video presentation (30%)
 
 
